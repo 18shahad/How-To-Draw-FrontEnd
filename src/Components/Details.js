@@ -20,7 +20,7 @@ class Details extends React.Component {
 
     addToFav = () =>{
 
-        this.setState({favColor:'blue',textFavColor:'#FFF'})
+        this.setState({favColor:'pink',textFavColor:'#FFF'})
         api.post('/favourites',{
 
             user_name :this.props.match.params.userName ,
@@ -38,7 +38,7 @@ class Details extends React.Component {
 
     addToComplete = () => {
 
-        this.setState({completeColor:'blue',textCompleteColor:'#FFF'})
+        this.setState({completeColor:'green',textCompleteColor:'#FFF'})
         api.post('/completed',{
 
             user_name :this.props.match.params.userName ,
