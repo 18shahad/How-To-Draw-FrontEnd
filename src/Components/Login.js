@@ -71,7 +71,7 @@ class Login extends React.Component {
                    {!this.state.username&&this.state.required&&<div style={{marginLeft:'100px',display:'flex',justifyContent:'center',alignItems:'center',color:'red'}}>User Name is Required</div>}
                    <div>
                         <label>Password:</label>
-                        <input type='text' style={{flex:1}} value={this.state.password} onChange={this.handlePassword}/>
+                        <input type='password' style={{flex:1}} value={this.state.password} onChange={this.handlePassword}/>
                    </div>
 
                    {!this.state.password&&this.state.required&&<div style={{marginLeft:'100px',display:'flex',justifyContent:'center',alignItems:'center',color:'red'}}>Password is Required</div>}

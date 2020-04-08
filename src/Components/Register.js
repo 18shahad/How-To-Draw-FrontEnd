@@ -83,7 +83,7 @@ render()
                    {!this.state.username&&this.state.required&&<div style={{marginLeft:'110px',display:'flex',justifyContent:'center',alignItems:'center',color:'red'}}>User Name is Required</div>}
                    <div>
                         <label>Password:</label>
-                        <input type='text' value={this.state.password} onChange={this.handlePassword}/>
+                        <input type='password' value={this.state.password} onChange={this.handlePassword}/>
                    </div>
                    {!this.state.password&&this.state.required&&<div style={{marginLeft:'100px',display:'flex',justifyContent:'center',alignItems:'center',color:'red'}}>Password is Required</div>}
                    <div>
