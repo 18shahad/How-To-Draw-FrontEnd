@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1eae6f56.chunk.css",
+    "main.js": "/static/js/main.48f5d930.chunk.js",
+    "main.js.map": "/static/js/main.48f5d930.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.061ede35.js",
+    "runtime-main.js.map": "/static/js/runtime-main.061ede35.js.map",
+    "static/js/2.62113b78.chunk.js": "/static/js/2.62113b78.chunk.js",
+    "static/js/2.62113b78.chunk.js.map": "/static/js/2.62113b78.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4566ea723fe7661abe49ac42a85e14f4.js": "/precache-manifest.4566ea723fe7661abe49ac42a85e14f4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1eae6f56.chunk.css.map": "/static/css/main.1eae6f56.chunk.css.map",
+    "static/js/2.62113b78.chunk.js.LICENSE.txt": "/static/js/2.62113b78.chunk.js.LICENSE.txt",
+    "static/media/animal1.jpeg": "/static/media/animal1.b691b125.jpeg",
+    "static/media/animal2.jpeg": "/static/media/animal2.bcc628e2.jpeg",
+    "static/media/car1.jpeg": "/static/media/car1.dfb993d6.jpeg",
+    "static/media/car2.jpeg": "/static/media/car2.14549860.jpeg",
+    "static/media/car3.jpeg": "/static/media/car3.0a6a8623.jpeg",
+    "static/media/car4.jpeg": "/static/media/car4.81b8a531.jpeg",
+    "static/media/car5.jpeg": "/static/media/car5.586f2882.jpeg",
+    "static/media/car6.jpeg": "/static/media/car6.57171284.jpeg",
+    "static/media/cow.jpeg": "/static/media/cow.83a8e4de.jpeg",
+    "static/media/flower1.jpeg": "/static/media/flower1.f5f528df.jpeg",
+    "static/media/flower2.jpeg": "/static/media/flower2.3284ecec.jpeg",
+    "static/media/flower3.jpeg": "/static/media/flower3.a68b5796.jpeg",
+    "static/media/flower4.jpeg": "/static/media/flower4.eace2028.jpeg",
+    "static/media/flower5.jpeg": "/static/media/flower5.90ebea83.jpeg",
+    "static/media/food1.jpeg": "/static/media/food1.4230d93a.jpeg",
+    "static/media/food2.jpeg": "/static/media/food2.1b55fcc1.jpeg",
+    "static/media/food3.jpeg": "/static/media/food3.88325705.jpeg",
+    "static/media/oswald the moose.jpeg": "/static/media/oswald the moose.cd2f625c.jpeg",
+    "static/media/pizza.jpeg": "/static/media/pizza.3b3c4c06.jpeg",
+    "static/media/tiger.jpeg": "/static/media/tiger.62c5d163.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.061ede35.js",
+    "static/js/2.62113b78.chunk.js",
+    "static/css/main.1eae6f56.chunk.css",
+    "static/js/main.48f5d930.chunk.js"
+  ]
+}
